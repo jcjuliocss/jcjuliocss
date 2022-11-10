@@ -10,7 +10,7 @@
   <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcjuliocss&layout=compact&theme=chartreuse-dark&count_private=true" />
   <br><br>
   
-  <a href="https://www.linkedin.com/in/julio-cesar-schlindwein-da-silva-1a227a16a/">
+  <a href="https://www.linkedin.com/in/julio-cesar-schlindwein-da-silva-1a227a16a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&color=green" alt="LinkedIn Badge"/>
   </a>
 </div>
